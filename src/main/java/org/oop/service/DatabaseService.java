@@ -1,3 +1,8 @@
+// DRY: Повторяющиеся SQL-запросы
+// KISS: Сложная инициализация базы данных
+// YAGNI: Избыточные таблицы (например, comments не используется)
+// KISS: Отсутствие разделения SQL-скриптов
+
 package org.oop.service;
 
 import org.oop.api.IConfigService;

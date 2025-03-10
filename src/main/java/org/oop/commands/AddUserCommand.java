@@ -1,3 +1,7 @@
+// DRY: Повторяющийся код promptOrReturn
+// KISS: Сложная логика валидации
+// YAGNI: Избыточная обработка возврата
+
 package org.oop.commands;
 
 import org.oop.api.IUserService;

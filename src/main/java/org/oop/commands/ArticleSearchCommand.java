@@ -1,3 +1,6 @@
+// KISS: Отсутствие валидации ввода
+// YAGNI: Избыточный вывод всех статей
+
 package org.oop.commands;
 
 import org.oop.api.IArticleService;

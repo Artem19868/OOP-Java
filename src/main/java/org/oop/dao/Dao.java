@@ -1,3 +1,7 @@
+// KISS: Отсутствует пул соединений
+// DRY: Повторное использование драйвера
+// YAGNI: Избыточная абстракция для текущего использования
+
 package org.oop.dao;
 
 import org.oop.api.IConfigService;

@@ -1,3 +1,8 @@
+// DRY: Повторяющийся код форматирования таблиц
+// KISS: Слишком сложная логика в printArticles
+// YAGNI: Избыточные методы форматирования
+// KISS: Сложная обработка ввода в promptForMenuSelection
+
 package org.oop.service;
 
 import org.oop.api.IArticleService;

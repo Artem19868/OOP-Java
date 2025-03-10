@@ -1,3 +1,6 @@
+// DRY: Дублирование кода с AddUserCommand
+// KISS: Сложная логика проверки
+
 package org.oop.commands;
 
 import org.oop.api.IUserService;

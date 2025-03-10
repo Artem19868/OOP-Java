@@ -1,3 +1,6 @@
+// KISS: Отсутствие валидации ввода
+// YAGNI: Избыточное создание объекта ArticleMenu
+
 package org.oop.commands;
 
 import org.oop.api.IArticleService;

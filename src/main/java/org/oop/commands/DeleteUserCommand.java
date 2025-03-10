@@ -1,3 +1,6 @@
+// DRY: Повторение кода проверки
+// KISS: Сложная логика удаления
+
 package org.oop.commands;
 
 import org.oop.api.IAuthService;

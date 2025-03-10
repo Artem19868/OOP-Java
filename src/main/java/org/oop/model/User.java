@@ -1,3 +1,7 @@
+// DRY: Аналогично Article, можно использовать Lombok
+// KISS: toString() метод слишком сложный, можно упростить
+// YAGNI: Избыточные геттеры/сеттеры
+
 package org.oop.model;
 
 import java.util.Objects;

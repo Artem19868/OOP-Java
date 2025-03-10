@@ -1,3 +1,7 @@
+// DRY: Повторяющиеся проверки isUserLoggedIn
+// KISS: Сложная логика аутентификации
+// YAGNI: Избыточная проверка isCurrentUser
+
 package org.oop.service;
 
 import org.mindrot.jbcrypt.BCrypt;

@@ -1,3 +1,6 @@
+// KISS: Отсутствие обработки некорректного ввода
+// DRY: Повторение сообщений об ошибках
+
 package org.oop.commands;
 
 import org.oop.api.IArticleService;

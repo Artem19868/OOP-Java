@@ -1,3 +1,6 @@
+// KISS: Отсутствие ограничения попыток входа
+// DRY: Повторение сообщений об ошибках
+
 package org.oop.commands;
 
 import org.oop.api.IAuthService;

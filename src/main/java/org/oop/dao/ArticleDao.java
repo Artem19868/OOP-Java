@@ -1,3 +1,9 @@
+// DRY: Повторяющийся код обработки SQL-исключений
+// KISS: Сложные SQL-запросы
+// YAGNI: Избыточные методы поиска
+// DRY: Дублирование кода создания объектов Article
+// KISS: Ошибка в SQL-запросе updateArticle (лишняя запятая)
+
 package org.oop.dao;
 
 import org.oop.api.dao.IArticleDao;

@@ -1,3 +1,8 @@
+// DRY: Повторяющиеся геттеры и сеттеры можно заменить использованием Lombok
+// KISS: toString() метод можно упростить, используя String.format
+// YAGNI: Возможно, не все геттеры/сеттеры реально используются
+
+
 package org.oop.model;
 
 public class Article {

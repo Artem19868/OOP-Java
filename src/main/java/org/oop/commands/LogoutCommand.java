@@ -1,3 +1,6 @@
+// KISS: Избыточное подтверждение выхода
+// YAGNI: Избыточная обработка исключений
+
 package org.oop.commands;
 
 import org.oop.api.IAuthService;

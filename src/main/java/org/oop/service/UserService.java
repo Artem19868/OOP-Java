@@ -1,3 +1,7 @@
+// DRY: Повторение кода хеширования паролей
+// KISS: Сложная логика в changePassword
+// YAGNI: Возможно избыточные методы работы с ролями
+
 package org.oop.service;
 
 import org.mindrot.jbcrypt.BCrypt;

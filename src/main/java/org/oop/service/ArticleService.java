@@ -1,3 +1,7 @@
+// DRY: Дублирование создания объекта Article в методах
+// KISS: Сложная логика в updateArticle
+// YAGNI: Возможно избыточное использование authService для всех операций
+
 package org.oop.service;
 
 import org.oop.api.IArticleService;
